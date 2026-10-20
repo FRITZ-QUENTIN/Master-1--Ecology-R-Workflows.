@@ -4,6 +4,6 @@ Welcome to my computational ecology workspace. I am an M.Sc. Ecology and Wildlif
 Technical Toolkit: Advanced Biostatistics in R, Spatial Analysis in QGIS and Remote Sensing in ENVI
 Core Objective: Engineering data driven conservation and compliance models .
 ## Current Progress 
--Week 1: Data Foundations-rat weights and turaco counts(Week 1_exercise.R)
+-Week 1: Data Foundations, RStudio environment -rat weights and turaco counts(Week 1_exercise.R)
 
--Week 2: Data ingestion - Cameroon field data cleaning and EIA prep (week2_exercise.R)
+-Week 2: Data ingestion and Tidyverse Setup- Cameroon field data cleaning and EIA prep (week2_exercise.R)
