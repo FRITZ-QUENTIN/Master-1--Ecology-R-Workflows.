@@ -1,0 +1,8 @@
+raw_data <- read.csv('cameroon_field_data.csv')
+print("BEFORE CLEANING - messy field names:")
+print(raw_data)
+colnames(raw_data)<- tolower(gsub(" ", "_", colnames(raw_data)))
+colnames(raw_data)<- gsub("\\.", "_",colnames(raw_data))
+print("AFTER CLEANING - EIA READY:")
+print(raw_data)
+print(paste("Mean DBH:", mean(raw_data$dbh_cm), "cm"))
