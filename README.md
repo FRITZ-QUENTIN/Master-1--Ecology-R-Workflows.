@@ -5,3 +5,4 @@ Technical Toolkit: Advanced Biostatistics in R, Spatial Analysis in QGIS and Rem
 Core Objective: Engineering data driven conservation and compliance models .
 ## Current Progress 
 Week 1: Data Foundations-rat weights and turaco counts(Week 1_exercise.R)
+Week 2: Data ingestion - Cameroon field data cleaning and EIA prep (week2_exercise.R)
